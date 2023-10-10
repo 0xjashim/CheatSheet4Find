@@ -1,5 +1,5 @@
 
-basic 'find file' commands
+# Basic 'Find File' Commands
 --------------------------
 find / -name foo.txt -type f -print             # full command </br>
 find / -name foo.txt -type f                    # -print isn't necessary </br>
