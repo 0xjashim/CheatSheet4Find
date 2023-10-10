@@ -1,5 +1,5 @@
 
-# Basic 'Find File' Commands
+## Basic 'Find File' Commands in Linux
 --------------------------
 >find / -name foo.txt -type f -print             # full command </br>
 >find / -name foo.txt -type f                    # -print isn't necessary </br>
