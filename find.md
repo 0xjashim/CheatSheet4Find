@@ -14,7 +14,9 @@ find /users/al -name Cookbook -type d           # search '/users/al'</br>
 
 # search multiple dirs
 ## --------------------
+```
 find /opt /usr /var -name foo.scala -type f     # search multiple dirs</br>
+```
 
 # case-insensitive searching
 ## --------------------------
