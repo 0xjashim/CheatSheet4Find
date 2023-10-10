@@ -1,5 +1,4 @@
 # List of cheatsheet for linux find.
-# Taken from here http://alvinalexander.com/unix/edu/examples/find.shtml
 
 # basic 'find file' commands
 # --------------------------
